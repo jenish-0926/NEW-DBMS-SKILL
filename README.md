@@ -144,3 +144,16 @@ The project includes:
 
 - MySQL
 - SQL
+
+- Conclusion
+
+This project helps to understand basic SQL concepts such as:
+
+Database and table creation
+Primary Key
+Foreign Key
+JOIN
+GROUP BY
+HAVING
+Aggregate Functions
+CRUD Operations
